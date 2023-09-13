@@ -1,2 +1,3 @@
 # apnacollege-demo
-testing git repo
+testing git repo.
+Author - Ishaan Taneja
